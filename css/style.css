@@ -7,7 +7,7 @@ h1{
     font-size: 50px;
     text-transform: capitalize;
 }
-.highlight{
+.name-highlight{
     color: #f88064;
 }
 h3{
@@ -83,6 +83,9 @@ section{
     border-radius: 5px;
     height: 75%;
 
+}
+.highlight{
+    color: #f88064;
 }
 #future-dream{
     border-left: 7px solid;
